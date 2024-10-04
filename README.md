@@ -1,1 +1,1 @@
-# Simple_js_calculator
+# simple-js-calculator
